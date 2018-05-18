@@ -1,0 +1,15 @@
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\TelaCadClientes.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\model\Hardware.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\ClienteHibernateDAO.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\ClienteJdbcDAO.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\HibernateUtil.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\TelaDeCadastro.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\TelaCadDeHardware.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\HardwareJdbcDAO.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\model\Vendas.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\JdbcUtil.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\App.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\TelaCadDeVendas.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\model\Cliente.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\VendasJdbcDAO.java
+G:\ETEC - INFORMATICA\3º SEMESTRE\PC 2\lojainfo\src\main\java\lojainformatica\persistence\IDAO.java
